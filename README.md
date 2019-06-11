@@ -1,4 +1,4 @@
-# OpenGL-3D
+# OpenGL 3D Brick Breaker Game
 
 OpenGL 3D Breakout clone created for the 2nd year Games Computing BSc Graphics Module.
 
