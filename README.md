@@ -23,3 +23,9 @@ Languages / Toolkit Used
 - GLEW
 - GLM
 - Assimp
+
+___
+*Click on image to see video*
+<a href="https://www.youtube.com/watch?v=qOw2hMqCx08" target="_blank"><img src="https://img.youtube.com/vi/qOw2hMqCx08/maxresdefault.jpg" 
+alt="PhysX Rugby Kicking Game" width="920" height="517" border="0" /></a>
+
